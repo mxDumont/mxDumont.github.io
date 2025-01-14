@@ -76,7 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
+        title: Valorhiz & L'Institut Agro Montpellier
         link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: pHD student 
