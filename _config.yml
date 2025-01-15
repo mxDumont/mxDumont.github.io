@@ -1,5 +1,4 @@
 # Site
-remote_theme: sproogen/modern-resume-theme
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -121,3 +120,13 @@ content:
       - Randonnée, vélo et escalade
       - Musique : guitare, chant, production musicale
       - Cuisine et voyage en mobilités douces
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
