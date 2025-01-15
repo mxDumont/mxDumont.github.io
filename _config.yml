@@ -9,13 +9,13 @@ version: 2
 name: Maxime Dumont
 title: PhD in remote sensing for env sciences
 email: maxime.dumont96@gmail.com
-website: https://github.com/mxDumont
+#website: https://github.com/mxDumont
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  mxDumont
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -30,10 +30,10 @@ github_username:  mxDumont
 orcid_username: 0000-0002-2033-7853
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
