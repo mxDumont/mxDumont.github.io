@@ -16,14 +16,14 @@ darkmode: false
 
 # Social links
 github_username: mxDumont
-linkedin_username: maxime-dumont
+linkedin_username: maxime-dumont-945bb2164
 orcid_username: 0000-0002-2033-7853
 
 # Additional icon links
 additional_links:
 - title: My ResearchGate
   icon: fas fa-globe
-  url: https://www.researchgate.net/profile/Maxime-Dumont
+  url: https://www.researchgate.net/profile/Maxime-Dumont-5
 
 # About Section
 about_profile_image: images/profile.jpg
