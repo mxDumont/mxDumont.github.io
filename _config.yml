@@ -30,7 +30,7 @@ about_profile_image: images/autocollant-psykokwak-pokemon-054.png
 about_content: | # this will include new lines to allow paragraphs
   Hello! I’m Maxime, a PhD in remote sensing with a passion for solving environmental challenges using digital tools and advanced statistical methods. I specialize in machine learning, spatial statistics, and remote sensing.
 
-  I'd say im : <mark>Curious</mark>, <mark>Creative</mark>, and <mark>Rigorous</mark> plus <mark style="background-color: #deb452; color: black;">zozo </mark>
+  I'd say im : <mark style="background-color: #ffd54a; color: black;">Creative </mark>, <mark style="background-color: #e6a452; color: black;">Curious </mark>, and <mark style="background-color: #deb452; color: black;">Rigorous </mark> 
 
 content:
   - title: Projects
