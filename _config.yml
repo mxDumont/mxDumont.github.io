@@ -87,11 +87,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: PhD in Remote Sensing
-        caption: 2022 - 2025
-        sub_title: Valorhiz & L’Institut Agro Montpellier
-
-      - layout: left
         title: MSc in Agrotic Engineering
         caption: 2017 - 2021
         sub_title: Bordeaux Sciences Agro
